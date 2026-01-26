@@ -1,0 +1,5 @@
+1: abrir o terminal  digitar:npx  create-next-app@(versao) nome-do-projeto
+2:no terminal :code nome-do-projeto   (A pasta fica no caminho:C:\Users\Viktor\nome do projeto)
+3:instalar o prisma;https://www.prisma.io/docs/getting-started/prisma-orm/quickstart/prisma-postgres
+4:no terminal npx prisma init --datasource-provider postgresql
+5:conexao  do banco com neon console , colocar a url em .env
