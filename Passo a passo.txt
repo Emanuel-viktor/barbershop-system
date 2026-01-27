@@ -3,3 +3,5 @@
 3:instalar o prisma;https://www.prisma.io/docs/getting-started/prisma-orm/quickstart/prisma-postgres
 4:no terminal npx prisma init --datasource-provider postgresql
 5:conexao  do banco com neon console , colocar a url em .env
+6:npx prisma format
+7: npx prisma migrate dev --name init_db
